@@ -1,0 +1,27 @@
+{
+  "name": "frontendframeworks",
+  "version": "1.0.0",
+  "description": "this is assignment one",
+  "main": "index.js",
+  "scripts": {
+    "start": "npm run lite",
+    "lite": "lite-server",
+    "test": "c"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KajalSoni955/frontend.git"
+  },
+  "keywords": [
+    "frontend"
+  ],
+  "author": "Kajal C. Soni",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KajalSoni955/frontend/issues"
+  },
+  "homepage": "https://github.com/KajalSoni955/frontend#readme",
+  "dependencies": {
+    "lite-server": "^2.5.4"
+  }
+}
